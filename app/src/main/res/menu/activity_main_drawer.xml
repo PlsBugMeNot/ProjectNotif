@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="News">
+        <menu>
+            <item
+                android:id="@+id/localNews"
+                android:title="Local"/>
+            <item
+                android:id="@+id/nationalNews"
+                android:title="National"/>
+        </menu>
+    </item>
+
+</menu>
